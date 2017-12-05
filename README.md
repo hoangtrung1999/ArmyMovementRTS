@@ -5,4 +5,4 @@
   Well in this repo, I will add some func for pattern moving of a group of objects, with path finding and selecting objects,...
 # Update:
 5/12/2017:
-+ Now we can select a group of objects and move them in pattern
++ Now we can select a group of objects and make them march
