@@ -47,6 +47,9 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PatternArmyRTS.cs" />
+     <Compile Include="Assets\Scripts\SelectableObject.cs" />
+     <Compile Include="Assets\Scripts\UnitSelecting.cs" />
+     <Compile Include="Assets\Scripts\UnitSelectingLib.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>E:/Unity 5.6.1/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
